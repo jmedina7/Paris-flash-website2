@@ -13,7 +13,7 @@
 
 		<?php include ("includes/header.php"); ?>
 
-		<p>info</p>
+		<h1>Welcome to our webpages!</h1>
 
 	</body>
 
