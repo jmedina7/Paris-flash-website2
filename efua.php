@@ -4,7 +4,7 @@
 	<head>
 		<meta charset="utf-8">
 		<title>Efua</title>
-		<link rel="stylesheet" type="text/css" href="css/styles.css">
+		<?php include "inc/html-top.inc"; ?>
 	</head>
 
 	<body>
