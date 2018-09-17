@@ -13,7 +13,7 @@
 
 		<?php include ("includes/header.php"); ?>
 
-		<h2>About Me</h2>
+		<h2>About Margaret</h2>
 
 			<p>I am an ex-student at the University of Rochester. They kicked me out (I graduated), but I’m still here, auditing courses for the fall. I’m taking Environmental Economics, Environmental Law and Policy, and Web Design. Why? Because I think they’ll be useful if I do anything sustainability-related in my career. And because it buys me more time to figure out what I want to do with my life. I don’t know what will happen after this fall… I guess sooner or later I need to decide what I’m going to do, at least to start out in a career.</p>
 
@@ -31,7 +31,7 @@
 
 			<p>College was the first time that I could choose pretty much all of what I wanted to study, and I loved that. Every semester I spent hours and hours looking at the course catalogs, emailing professors for syllabi, sitting in on way more courses than I was going to take, and trying to make decisions (which I’m bad at). I didn’t declare my major until fall of my junior year, when I created my own major (so I never really decided anyway). Although the library has been my second home, I’ve also been pretty involved in a couple clubs (Students for a Democratic Society, Greenspace, and Partners in Reading especially), and kept up violin for the first three years.</p>
 
-
+	<?php include "inc/scripts.inc"; ?>
 	</body>
 
 </html>
