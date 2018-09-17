@@ -11,7 +11,7 @@
 
 		<?php include ("includes/navigation.php"); ?>
 
-		<h1>Efua.</h1>
+		<h2>About Efua</h2>
 
 		<img src="images/efua.jpg">
 
