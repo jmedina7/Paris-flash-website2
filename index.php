@@ -13,9 +13,9 @@
 
 		<h1>Welcome to our webpages!</h1>
 
-		<img src="efua.jgp">
-		<img src="graduation.jgp">
-		<img src="on_bus.jpg">
+		<img src="images/efua.jgp">
+		<img src="images/graduation.jgp">
+		<img src="images/on_bus.jpg">
 
 	<?php include "inc/scripts.inc"; ?>
 	</body>
