@@ -13,6 +13,8 @@
 
 		<h1>Efua.</h1>
 
+		<img src="images/efua.jpg">
+
 		<p>Storyteller. Community builder. Pan-Africanist. These words describe some of the most important aspects of my being. One word that was up there for a long time and recently fell away was medicine junkie. One word that will be up there soon is changemaker. The ones you see -- and even the ones you don’t -- are all connected:  I tell stories and build communities in order to inspire change, to spark a roaring fire in others. I do not always do this within Africa, but my heart is always calling for the continent, which I consider my home. If this sounds grand, lofty or pretentious, perhaps a glimpse into my background will help.</p>
 
 		<p>I was born in England to a Nigerian mother and Ghanaian father, we moved to Ghana when I was 8 years old. By this time, I had already developed a strong love for science and medicine; something which was very easy to fuel among the pre-professional fever of Ghana’s middle class. I studied physics, biology and chemistry (Chemistry was my favorite), and even tried Additional mathematics before realising that I would crumble and die if I left myself with no creative outlet.</p>
