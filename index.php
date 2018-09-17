@@ -5,6 +5,8 @@
 		<meta charset="utf-8">
 		<title>Our Websites</title>
 		<link rel="stylesheet" type="text/css" href="css/styles.css">
+		<link rel="stylesheet" type="text/css" href="css/navigation.css">
+		<link rel="stylesheet" type="text/css" href="css/home.css">
 	</head>
 
 	<body>
