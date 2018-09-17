@@ -13,7 +13,7 @@
 
 	<body>
 
-		<?php include ("includes/navigation.php"); ?>
+		<?php include ("includes/navigation.inc"); ?>
 
 		<h1>Welcome to our webpages!</h1>
 

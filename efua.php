@@ -9,7 +9,7 @@
 
 	<body>
 
-		<?php include ("includes/navigation.php"); ?>
+		<?php include ("includes/navigation.inc"); ?>
 
 		<h2>About Efua</h2>
 
