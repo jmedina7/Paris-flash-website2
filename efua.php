@@ -26,6 +26,9 @@
 		<p>My search to answer this question led me directly to politics and government to explain the shortcomings in Ghana’s systems - our health, education, economy. We were so disconnected from it, and yet it was the only thing that could save us. In order to have a shot at changing my country (maybe even my continent), I turned to what I knew best: telling stories.</p>
 
 		<p>With the right story, you can equip a person to change the world, and make them want to do it too. And so I have made it my mission to ensure that all young Ghanaians have the information they need to be engaged and active in their country’s development. That’s the reason I do everything: to learn new and better ways to tell important stories that people will listen to, and that will inspire them to act.</p>
+	
+		<footer>Content from <a src="http://csc174.org/assignment02/eagyare-kumi/tab-1-intro.php</footer">CSC174.org</a>
+
 	<?php include "inc/scripts.inc"; ?>
 	</body>
 
