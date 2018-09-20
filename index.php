@@ -21,37 +21,13 @@
 			<img src="images/efua.jpg" alt="Efua">
 		</a>
 		
-
 		<a href="http://localhost/Paris-flash-website2/kelly.php">
 			<img src="images/graduation.jpg" alt="Kelly">
 		</a>
 		
-
 		<a href="http://localhost/Paris-flash-website2/margaret.php">
 			<img src="images/on_bus.jpg" alt="Margaret">
 		</a>
-
-
-
-
-	<!--
-
-		<figure>
-			<img src="images/efua.jpg">
-			<figcaption>Efua</figcaption>
-		</figure>
-
-		<figure>
-			<img src="images/graduation.jpg">
-			<figcaption>Kelly</figcaption>
-		</figure>
-
-		<figure>
-			<img src="images/on_bus.jpg">
-			<figcaption>Margaret</figcaption>
-		</figure>
-
-	-->
 
 
 	<?php include "inc/scripts.inc"; ?>
