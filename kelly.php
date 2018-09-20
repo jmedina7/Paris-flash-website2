@@ -15,7 +15,7 @@
 
 		<h1>Kelly Grace Thornton</h1>
 
-			<img src="images/kelly.jpg" alt="kelly by cascade falls" class="falls">
+			<img src="images/kelly_graduation.jpg" alt="kelly" class="falls">
 
 		<h2>About Kelly</h2>
 

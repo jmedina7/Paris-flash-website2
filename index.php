@@ -22,11 +22,11 @@
 		</a>
 		
 		<a href="http://localhost/Paris-flash-website2/kelly.php">
-			<img src="images/graduation.jpg" alt="Kelly">
+			<img src="images/kelly_graduation.jpg" alt="Kelly">
 		</a>
 		
 		<a href="http://localhost/Paris-flash-website2/margaret.php">
-			<img src="images/on_bus.jpg" alt="Margaret">
+			<img src="images/margaret_on_bus.jpg" alt="Margaret">
 		</a>
 
 

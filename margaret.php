@@ -15,7 +15,7 @@
 
 		<h1>Margaret Thurston</h1>
 
-			<img class="image-top" src="images/on_bus.jpg" alt="margaret thurston">
+			<img class="image-top" src="images/margaret_on_bus.jpg" alt="margaret thurston">
 
 		<h2>About Margaret</h2>
 
