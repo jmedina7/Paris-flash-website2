@@ -37,6 +37,12 @@
 
 			<p>After graduating Hudson Valley Community College, I applied to three schools. University of Rochester was the first to accept me. I felt like it was necessary for me to go to University of Rochester so that I could expose more hearing people of the deaf culture and make them interact. It is interesting to see other perspectives within the digital media culture and expand more so on that. As someone who is visual and wants to import that into the world and have that be a way of accessibility it is something that drives me in finding out the ways I can do that. Digitally I feel like there is much potential and using the digital media as well as learning some computer science will leave me ill equipped for what I would like to pursue after University of Rochester. Moving to Rochester has brought a lot of new things to me as well as my education. I also play for the Rochester women's rugby club team. New things can bring you to new invigorating experiences.
 			</p>
+
+		<footer>
+			Source: <a href="http://csc174.org/assignment02/kthornton/">Kelly's lab 2</a> on CSC174.org
+		</footer>
+
+
 	<?php include "inc/scripts.inc"; ?>
 	</body>
 

@@ -27,7 +27,9 @@
 
 		<p>With the right story, you can equip a person to change the world, and make them want to do it too. And so I have made it my mission to ensure that all young Ghanaians have the information they need to be engaged and active in their country’s development. That’s the reason I do everything: to learn new and better ways to tell important stories that people will listen to, and that will inspire them to act.</p>
 	
-		<footer>Content from <a src="http://csc174.org/assignment02/eagyare-kumi/tab-1-intro.php</footer">CSC174.org</a>
+	<footer>
+		Source: <a href="http://csc174.org/assignment02/eagyare-kumi/tab-1-intro.php">Efua's lab 2</a> on CSC174.org
+	</footer>
 
 	<?php include "inc/scripts.inc"; ?>
 	</body>
