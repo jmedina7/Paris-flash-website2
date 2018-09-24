@@ -37,7 +37,7 @@
 			Source: <a href="http://csc174.org/assignment02/mthurston/">Margaret's lab 2</a> on CSC174.org
 		</footer>
 
-	<?php include "inc/scripts.inc"; ?>
+	<?php include "includes/scripts.inc"; ?>
 	</body>
 
 </html>

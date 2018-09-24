@@ -29,7 +29,7 @@
 			<p>January of 2015 I entered Hudson Valley Community College. I had started their digital media associates program. The program is only about five years old so it is a new subject. This major was not available when I initially graduated high school in 2010. I was able to build my resume with skill and was able to build a portfolio. This made me realize my love for web art, and digital art. I graduated with honors and was on the President's list the whole time I was a student there. Learning that art was the best way to help Deaf community I found my passion within the digital world to convey the messages that I thinks need to be spoken about. I focused on social issues that we all face hearing or deaf. Then I emulated a few artists but using Deaf world perspectives. Then towards the end of my time at Hudson Valley I focused more so on the form and aesethic of sign language. Also at the end I knew I wanted to pursue more of my education.</p>
 
 		<h2>University of Rochester</h2>
-			
+
 			<p>After graduating Hudson Valley Community College, I applied to three schools. University of Rochester was the first to accept me. I felt like it was necessary for me to go to University of Rochester so that I could expose more hearing people of the deaf culture and make them interact. It is interesting to see other perspectives within the digital media culture and expand more so on that. As someone who is visual and wants to import that into the world and have that be a way of accessibility it is something that drives me in finding out the ways I can do that. Digitally I feel like there is much potential and using the digital media as well as learning some computer science will leave me ill equipped for what I would like to pursue after University of Rochester. Moving to Rochester has brought a lot of new things to me as well as my education. I also play for the Rochester women's rugby club team. New things can bring you to new invigorating experiences.
 			</p>
 
@@ -38,7 +38,7 @@
 		</footer>
 
 
-	<?php include "inc/scripts.inc"; ?>
+	<?php include "includes/scripts.inc"; ?>
 	</body>
 
 </html>
