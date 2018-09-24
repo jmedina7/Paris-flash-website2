@@ -8,12 +8,18 @@
 	</head>
 
 	<body>
-
+		<header>
 		<?php include ("includes/navigation.inc"); ?>
 
+<<<<<<< HEAD
 		<div class="ui container">
 
 			<h1>Kelly Grace Thornton</h1>
+=======
+		<h1>Kelly Grace Thornton</h1>
+		</header>
+			<img src="images/kelly_graduation.jpg" alt="kelly" class="falls">
+>>>>>>> 36d761b704b89b444ae8445f93ad9b3ef158ead3
 
 				<img src="images/kelly_graduation.jpg" alt="kelly" class="falls">
 

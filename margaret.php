@@ -8,12 +8,18 @@
 	</head>
 
 	<body>
-
+		<header>
 		<?php include ("includes/navigation.inc"); ?>
 
+<<<<<<< HEAD
 		<div class="ui container">
 
 			<h1>Margaret Thurston</h1>
+=======
+		<h1>Margaret Thurston</h1>
+		</header>
+			<img class="image-top" src="images/margaret_on_bus.jpg" alt="margaret thurston">
+>>>>>>> 36d761b704b89b444ae8445f93ad9b3ef158ead3
 
 				<img class="image-top" src="images/margaret_on_bus.jpg" alt="margaret thurston">
 
@@ -29,7 +35,11 @@
 
 				<p>In elementary school I was a pretty busy kid. Both my parents worked full time, so after school I went to an after-school program until about 6pm. Then, most nights we’d come home for a rushed dinner and then drive off again for some activity: soccer, gymnastics, basketball, swimming, violin lessons, violin classes, or my brother’s baseball games. In the summer and during school breaks my brother and I went to camps: music camps, gymnastics camp, sports camp, chess camp, “fun camp” (or “boring camp” as my brother called it), and others. But what I did more than anything was read.</p>
 
+<<<<<<< HEAD
 				<p>In middle school and high school I didn’t do sports, but I filled my time with homework and violin, and school clubs to some extent. I was a very… slow… worker… so I spent a lot of time doing homework. I also did more orchestras, violin group classes, and started practicing violin a little more seriously (sometimes), so that took more time too. My favorite thing from high school was being in a classical music improvisation group, with some of my best friends.</p>
+=======
+		<h2>University of Rochester</h2>
+>>>>>>> 36d761b704b89b444ae8445f93ad9b3ef158ead3
 
 			<h2>College</h2>
 

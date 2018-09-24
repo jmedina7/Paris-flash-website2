@@ -10,6 +10,7 @@
 	</head>
 
 	<body>
+		<header>
 
 		<?php include ("includes/navigation.inc"); ?>
 
@@ -22,9 +23,14 @@
 				<img src="images/efua.jpg" alt="Efua">
 			</a>
 
+<<<<<<< HEAD
 			<a href="http://localhost/Paris-flash-website2/kelly.php">
 				<img src="images/kelly_graduation.jpg" alt="Kelly">
 			</a>
+=======
+		</header>
+
+>>>>>>> 36d761b704b89b444ae8445f93ad9b3ef158ead3
 
 			<a href="http://localhost/Paris-flash-website2/margaret.php">
 				<img src="images/margaret_on_bus.jpg" alt="Margaret">

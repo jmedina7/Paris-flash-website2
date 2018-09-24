@@ -9,18 +9,28 @@
 	</head>
 
 	<body>
-
+		<header>
 		<?php include ("includes/navigation.inc"); ?>
 
+<<<<<<< HEAD
 		<div class="ui container">
 
 			<h1>Efua Agyare-Kumi</h1>
+=======
+		<h1>Efua Agyare-Kumi</h1>
+		</header>
+		<img src="images/efua.jpg">
+>>>>>>> 36d761b704b89b444ae8445f93ad9b3ef158ead3
 
 			<img src="images/efua.jpg">
 
 			<h2>About Efua</h2>
 
+<<<<<<< HEAD
 				<p>Storyteller. Community builder. Pan-Africanist. These words describe some of the most important aspects of my being. One word that was up there for a long time and recently fell away was medicine junkie. One word that will be up there soon is changemaker. The ones you see -- and even the ones you don’t -- are all connected:  I tell stories and build communities in order to inspire change, to spark a roaring fire in others. I do not always do this within Africa, but my heart is always calling for the continent, which I consider my home. If this sounds grand, lofty or pretentious, perhaps a glimpse into my background will help.</p>
+=======
+		<h2>Early Life</h2>
+>>>>>>> 36d761b704b89b444ae8445f93ad9b3ef158ead3
 
 			<h2>The Beginning</h2>
 
