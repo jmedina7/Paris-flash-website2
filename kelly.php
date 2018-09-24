@@ -11,18 +11,15 @@
 		<header>
 		<?php include ("includes/navigation.inc"); ?>
 
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 		<div class="ui container">
 
 			<h1>Kelly Grace Thornton</h1>
-=======
-=======
->>>>>>> 92c98370e9f17c9073478b8ea6439dfc68e315d5
+
 		<h1>Kelly Grace Thornton</h1>
 		</header>
 			<img src="images/kelly_graduation.jpg" alt="kelly" class="falls">
->>>>>>> 36d761b704b89b444ae8445f93ad9b3ef158ead3
+
 
 				<img src="images/kelly_graduation.jpg" alt="kelly" class="falls">
 
