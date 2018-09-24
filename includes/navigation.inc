@@ -1,4 +1,4 @@
-<nav class="menu">
+<nav class="menu" class="is-current">
 	<ul>
 		<li><a href="index.php">Welcome page</a></li>
 		<li><a href="efua.php">Efua Agyare-Kumi</a></li>
