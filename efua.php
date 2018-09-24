@@ -13,10 +13,13 @@
 		<?php include ("includes/navigation.inc"); ?>
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 		<div class="ui container">
 
 			<h1>Efua Agyare-Kumi</h1>
 =======
+=======
+>>>>>>> 92c98370e9f17c9073478b8ea6439dfc68e315d5
 		<h1>Efua Agyare-Kumi</h1>
 		</header>
 		<img src="images/efua.jpg">
@@ -34,7 +37,11 @@
 
 			<h2>The Beginning</h2>
 
+<<<<<<< HEAD
 				<p>I was born in England to a Nigerian mother and Ghanaian father, we moved to Ghana when I was 8 years old. By this time, I had already developed a strong love for science and medicine; something which was very easy to fuel among the pre-professional fever of Ghana’s middle class. I studied physics, biology and chemistry (Chemistry was my favorite), and even tried Additional mathematics before realising that I would crumble and die if I left myself with no creative outlet.</p>
+=======
+		<h2>Early Life</h2>
+>>>>>>> 92c98370e9f17c9073478b8ea6439dfc68e315d5
 
 				<p>So I continued to take music classes and to play piano. I was a good student, but my interest in the sciences seldom extended beyond the classroom. All of my extracurriculars were centered around people and the arts: I was the student body vice president, I fundraised for charities and visited small children and hospitals with donations and gifts. I also acted as the Editor-in-Chief for my school’s annual magazine, and organised our 10th anniversary literary and cultural night. These things made me feel alive; but for some reason, my love for them never tore my attention away from the ultimate goal: to be the very first doctor in my family.</p>
 

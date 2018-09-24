@@ -24,11 +24,16 @@
 			</a>
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 			<a href="http://localhost/Paris-flash-website2/kelly.php">
 				<img src="images/kelly_graduation.jpg" alt="Kelly">
 			</a>
 =======
 		</header>
+=======
+		</header>
+
+>>>>>>> 92c98370e9f17c9073478b8ea6439dfc68e315d5
 
 >>>>>>> 36d761b704b89b444ae8445f93ad9b3ef158ead3
 
