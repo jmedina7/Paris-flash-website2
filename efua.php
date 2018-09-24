@@ -9,11 +9,11 @@
 	</head>
 
 	<body>
-
+		<header>
 		<?php include ("includes/navigation.inc"); ?>
 
 		<h1>Efua Agyare-Kumi</h1>
-
+		</header>
 		<img src="images/efua.jpg">
 
 		<h2>About Efua</h2>

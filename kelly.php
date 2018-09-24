@@ -8,11 +8,11 @@
 	</head>
 
 	<body>
-
+		<header>
 		<?php include ("includes/navigation.inc"); ?>
 
 		<h1>Kelly Grace Thornton</h1>
-
+		</header>
 			<img src="images/kelly_graduation.jpg" alt="kelly" class="falls">
 
 		<h2>About Kelly</h2>
