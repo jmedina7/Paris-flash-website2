@@ -46,7 +46,11 @@
 
 				<p>And then my father had a stroke. What was heartbreaking was not that this awful thing had happened to him so early, but more so that I knew that in a different country with a better healthcare system, his outcome might have been drastically different. For a long time, all my thoughts regarding hospitals, doctors, and medicine were filled with pain and distrust. As my dad received care from overworked doctors who didn’t have half the equipment or staff they needed to do a decent job, I raged on the inside, repeatedly asking myself: “How did we get here?”</p>
 
+<<<<<<< HEAD
 			<h2>The Light at the End</h2>
+=======
+			<p>Then my father had a stroke. What was heartbreaking was not that this awful thing had happened to him so early, but more so that I knew that in a different country with a better healthcare system, his outcome might have been drastically different. For a long time, all my thoughts regarding hospitals, doctors, and medicine were filled with pain and distrust. As my dad received care from overworked doctors who didn’t have half the equipment or staff they needed to do a decent job, I raged on the inside, repeatedly asking myself: “How did we get here?”</p>
+>>>>>>> e1836b560333c066d92a3e86caf4c80a7fa58663
 
 				<p>My search to answer this question led me directly to politics and government to explain the shortcomings in Ghana’s systems - our health, education, economy. We were so disconnected from it, and yet it was the only thing that could save us. In order to have a shot at changing my country (maybe even my continent), I turned to what I knew best: telling stories.</p>
 
