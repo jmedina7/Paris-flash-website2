@@ -11,8 +11,6 @@
 
 		<?php include ("includes/navigation.inc"); ?>
 
-		<?php include ("includes/header.php"); ?>
-
 		<h1>Kelly Grace Thornton</h1>
 
 			<img src="images/kelly_graduation.jpg" alt="kelly" class="falls">

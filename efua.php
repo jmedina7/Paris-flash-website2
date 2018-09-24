@@ -14,7 +14,7 @@
 
 		<h1>Efua Agyare-Kumi</h1>
 
-			<img src="images/efua.jpg">
+		<img src="images/efua.jpg">
 
 		<h2>About Efua</h2>
 

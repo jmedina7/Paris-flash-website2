@@ -11,8 +11,6 @@
 
 		<?php include ("includes/navigation.inc"); ?>
 
-		<?php include ("includes/header.php"); ?>
-
 		<h1>Margaret Thurston</h1>
 
 			<img class="image-top" src="images/margaret_on_bus.jpg" alt="margaret thurston">
