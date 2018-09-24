@@ -8,11 +8,11 @@
 	</head>
 
 	<body>
-
+		<header>
 		<?php include ("includes/navigation.inc"); ?>
 
 		<h1>Margaret Thurston</h1>
-
+		</header>
 			<img class="image-top" src="images/margaret_on_bus.jpg" alt="margaret thurston">
 
 		<h2>About Margaret</h2>

@@ -10,6 +10,7 @@
 	</head>
 
 	<body>
+		<header>
 
 		<?php include ("includes/navigation.inc"); ?>
 
@@ -26,6 +27,8 @@
 		<a href="http://localhost/Paris-flash-website2/margaret.php">
 			<img src="images/margaret_on_bus.jpg" alt="Margaret">
 		</a>
+
+		</header>
 
 
 		<h2>Who are the people studying web design?</h2>
