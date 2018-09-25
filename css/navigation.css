@@ -1,3 +1,4 @@
+/*
 .menu{
 	text-decoration: none;
 	padding-top: 5px;
@@ -7,7 +8,7 @@
 	flex-wrap: wrap;
 	padding-left: 0;
 	grid-column:1/ span 4;
-	
+
 	}
 
 .menu li{
@@ -40,15 +41,15 @@
  	}
 
  	@media (max-width: 607px) {
-	.menu ul, .menu li { display: block; } 
+	.menu ul, .menu li { display: block; }
 }
 
 @media (max-width: 730px) {
-	.container { display: block; } 
-} 
+	.container { display: block; }
+}
 
  #hero-width{
 	background:#8aa895;
 
 }
-
+*/
