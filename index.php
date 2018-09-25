@@ -5,18 +5,20 @@
 		<meta charset="utf-8">
 		<title>Future Web Designers</title>
 
-		<?php include "includes/html-top.inc"; ?>
+		<?php include('./inc/html-top.php'); ?>
 
 	</head>
 
 	<body>
 		<header>
 
-			<?php include ("includes/navigation.inc"); ?>
+			<div class="ui attached stackable menu">
+					<?php include ('./inc/navigation.php'); ?>
+			</div>
 
 		</header>
 
-		<div class="ux">
+		<div class="ui container">
 
 
 			<h1>Profiles of Future Web Designers</h1>
@@ -43,7 +45,7 @@
 
 		</div>
 
-	<?php include "includes/scripts.inc"; ?>
+		<?php include('./inc/scripts.php'); ?>
 	</body>
 
 </html>

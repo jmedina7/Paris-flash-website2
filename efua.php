@@ -5,13 +5,13 @@
 		<meta charset="utf-8">
 		<title>Efua</title>
 
-		<?php include ("includes/html-top.inc"); ?>
+		<?php include('./inc/html-top.php'); ?>
 	</head>
 
 	<body>
 		<header>
 			<div class="ui attached stackable menu">
-					<?php include ("includes/navigation.inc"); ?>
+					<?php include ('./inc/navigation.php'); ?>
 			</div>
 		</header>
 
@@ -55,7 +55,7 @@
 				Source: <a href="http://csc174.org/assignment02/eagyare-kumi/tab-1-intro.php">Efua's lab 2</a> on CSC174.org
 			</footer>
 
-			<?php include ("includes/scripts.inc"); ?>
+			<?php include ('./inc/scripts.php'); ?>
 
 		</div>
 	</body>

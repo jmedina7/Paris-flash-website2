@@ -1,0 +1,14 @@
+.ux.container {
+  width: 993;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+@media only screen and (max-width: 1199px) and (min-width: 992px){
+  .ux.container {
+      width: 993;
+      margin-left: auto !important;
+      margin-right: auto !important;
+  }
+}
+ 
