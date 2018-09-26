@@ -1,4 +1,6 @@
-<?php include('./inc/html-top.php'); ?>
+<?php 
+$pageTitle = "Future Web Designers";
+include('./inc/html-top.php'); ?>
 	<body>
 		<header>
 
