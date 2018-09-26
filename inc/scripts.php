@@ -1,2 +1,2 @@
 
-<script src="js/active-nav.js"></script>
+<script src="./js/activeNav.js"></script>
