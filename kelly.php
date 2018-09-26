@@ -6,12 +6,19 @@
 
 		</header>
 
+		<div class="ui inverted segment extended ui segment">
+
+				<div class="ui container">
+
+					<h1>Kelly Grace Thornton</h1>
+
+					<img class="ui centered medium circular image" src="images/kelly.jpg" alt="kelly">
+
+				</div>
+
+		</div>
 
 		<div class="ui container">
-
-			<h1>Kelly Grace Thornton</h1>
-
-			<img src="images/kelly_graduation.jpg" alt="kelly" class="falls">
 
 			<h2>About Kelly</h2>
 

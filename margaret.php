@@ -4,17 +4,23 @@
 
 		<header>
 
-
-					<?php include ('./inc/navigation.php'); ?>
-
+			<?php include ('./inc/navigation.php'); ?>
 
 		</header>
 
+		<div class="ui inverted segment extended ui segment">
+
+			<div class="ui container">
+
+				<h1>Margaret Thurston</h1>
+
+				<img class="ui centered medium circular image" src="images/margaret.jpg" alt="margaret thurston">
+
+			</div >
+
+		</div>
+
 		<div class="ui container">
-
-			<h1>Margaret Thurston</h1>
-
-			<img class="image-top" src="images/margaret_on_bus.jpg" alt="margaret thurston">
 
 			<h2>About Margaret</h2>
 
