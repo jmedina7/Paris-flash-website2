@@ -1,4 +1,6 @@
-<?php include('./inc/html-top.php'); ?>
+<?php 
+$pageTitle = "Kelly Grace Thornton";
+include('./inc/html-top.php'); ?>
 	<body>
 		<header>
 

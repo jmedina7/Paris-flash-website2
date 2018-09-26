@@ -1,4 +1,6 @@
-<?php include ('./inc/html-top.php'); ?>
+<?php 
+$pageTitle = "Margaret Thurston";
+include ('./inc/html-top.php'); ?>
 
 	<body>
 
