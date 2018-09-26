@@ -54,7 +54,7 @@
 
 		</div>
 
-	<?php include ('./inc/scripts.php'); ?>
+		<?php include ('./inc/scripts.php'); ?>
 	</body>
 
 </html>
