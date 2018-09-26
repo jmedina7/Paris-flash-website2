@@ -10,9 +10,9 @@
 
 	<body>
 		<header>
-			<div class="ui attached stackable menu">
+			
 					<?php include ('./inc/navigation.php'); ?>
-			</div>
+			
 		</header>
 
 		<div class="ui container">
