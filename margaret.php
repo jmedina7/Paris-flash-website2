@@ -6,9 +6,7 @@ include ('./inc/html-top.php'); ?>
 
 		<header>
 
-
-					<?php include ('./inc/navigation.php'); ?>
-
+			<?php include ('./inc/navigation.php'); ?>
 
 		</header>
 
