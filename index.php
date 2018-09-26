@@ -1,7 +1,9 @@
 <?php
 $pageTitle = "Future Web Designers";
 include('./inc/html-top.php'); ?>
+
 	<body>
+
 		<header>
 
 			<?php include ('./inc/navigation.php'); ?>
@@ -39,6 +41,7 @@ include('./inc/html-top.php'); ?>
 			</div>
 
 		<?php include('./inc/scripts.php'); ?>
+
 	</body>
 
 </html>

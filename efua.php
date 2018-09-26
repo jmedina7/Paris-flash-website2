@@ -1,5 +1,6 @@
 <?php include('./inc/html-top.php'); ?>
 	<body>
+
 		<header>
 
 					<?php include ('./inc/navigation.php'); ?>
@@ -7,7 +8,7 @@
 		</header>
 
 
-			<div class="ui inverted raised segment extended ui segment">
+			<div class="ui inverted segment extended ui segment">
 
 				<div class="ui container">
 					<h1>Efua Agyare-Kumi</h1>
