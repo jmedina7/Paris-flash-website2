@@ -1,13 +1,4 @@
-<!doctype html>
-
-<html lang="en">
-	<head>
-		<meta charset="utf-8">
-		<title>Efua</title>
-
-		<?php include('./inc/html-top.php'); ?>
-	</head>
-
+<?php include('./inc/html-top.php'); ?>
 	<body>
 		<header>
 			

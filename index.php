@@ -1,13 +1,3 @@
-<!doctype html>
-
-<html lang="en">
-	<head>
-		<meta charset="utf-8">
-		<title>Future Web Designers</title>
-
-		
-
-	</head>
 <?php include('./inc/html-top.php'); ?>
 	<body>
 		<header>
