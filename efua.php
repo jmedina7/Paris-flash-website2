@@ -1,4 +1,6 @@
-<?php include('./inc/html-top.php'); ?>
+<?php
+$pageTitle = "Efua Agyare";
+include('./inc/html-top.php'); ?>
 	<body>
 
 		<header>
