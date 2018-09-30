@@ -1,5 +1,5 @@
 <?php
-$pageTitle = "Efua Agyare";
+$pageTitle = "Efua Agyare-Kumi";
 include('./inc/html-top.php'); ?>
 	<body>
 
