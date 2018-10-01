@@ -41,7 +41,7 @@ include('./inc/html-top.php'); ?>
 			<p>And then my father had a stroke. What was heartbreaking was not that this awful thing had happened to him so early, but more so that I knew that in a different country with a better healthcare system, his outcome might have been drastically different. For a long time, all my thoughts regarding hospitals, doctors, and medicine were filled with pain and distrust. As my dad received care from overworked doctors who didn’t have half the equipment or staff they needed to do a decent job, I raged on the inside, repeatedly asking myself: “How did we get here?”</p>
 
 
-			<h2>The Light at the End</h2>
+			<h2>Today</h2>
 
 			<p>Then my father had a stroke. What was heartbreaking was not that this awful thing had happened to him so early, but more so that I knew that in a different country with a better healthcare system, his outcome might have been drastically different. For a long time, all my thoughts regarding hospitals, doctors, and medicine were filled with pain and distrust. As my dad received care from overworked doctors who didn’t have half the equipment or staff they needed to do a decent job, I raged on the inside, repeatedly asking myself: “How did we get here?”</p>
 
