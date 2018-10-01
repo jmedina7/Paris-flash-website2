@@ -39,7 +39,7 @@ include('./inc/html-top.php'); ?>
 
 			<p>In middle school and high school I didn’t do sports, but I filled my time with homework and violin, and school clubs to some extent. I was a very… slow… worker… so I spent a lot of time doing homework. I also did more orchestras, violin group classes, and started practicing violin a little more seriously (sometimes), so that took more time too. My favorite thing from high school was being in a classical music improvisation group, with some of my best friends.</p>
 
-			<h2>University of Rochester</h2>
+			
 
 
 			<h2>Today</h2>
