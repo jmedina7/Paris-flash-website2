@@ -42,11 +42,11 @@ include('./inc/html-top.php'); ?>
 			<h2>University of Rochester</h2>
 
 
-			<h2>College</h2>
+			<h2>Today</h2>
 
 			<p>College was the first time that I could choose pretty much all of what I wanted to study, and I loved that. Every semester I spent hours and hours looking at the course catalogs, emailing professors for syllabi, sitting in on way more courses than I was going to take, and trying to make decisions (which I’m bad at). I didn’t declare my major until fall of my junior year, when I created my own major (so I never really decided anyway). Although the library has been my second home, I’ve also been pretty involved in a couple clubs (Students for a Democratic Society, Greenspace, and Partners in Reading especially), and kept up violin for the first three years.</p>
 
-			<h2>University of Rochester</h2>
+			
 
 
 			<footer>
